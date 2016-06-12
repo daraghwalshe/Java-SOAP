@@ -20,9 +20,10 @@ The directories included in this repo:
 
 
 <hr />
-<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-1.PNG" width="400"> . . . . . 
-<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-2.PNG" width="400">
+<img src="https://github.com/daraghwalshe/Java-SOAP/blob/master/Images/toy_1.png" width="400"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-SOAP/blob/master/Images/toy_2.png" width="400">
 <hr />
-<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-3.PNG" width="400"> . . . . . 
-<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-4.PNG" width="400">
-
+<img src="https://github.com/daraghwalshe/Java-SOAP/blob/master/Images/toy_3.png" width="400"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-SOAP/blob/master/Images/toy_4.png" width="400">
+<hr />
+<img src="https://github.com/daraghwalshe/Java-SOAP/blob/master/Images/toy_5.png" width="400">
